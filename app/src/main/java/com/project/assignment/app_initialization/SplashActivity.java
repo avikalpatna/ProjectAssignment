@@ -6,7 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 
-import com.project.assignment.MainActivity;
+import com.project.assignment.view.MainActivity;
 import com.project.assignment.R;
 import com.project.assignment.Utils.AppConstant;
 
